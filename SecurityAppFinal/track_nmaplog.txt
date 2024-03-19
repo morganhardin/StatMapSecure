@@ -1,0 +1,23 @@
+Date: 03-16-2024
+443/tcp open  https
+80/tcp   closed http
+443/tcp  open   https
+2196/tcp closed unknown
+6000/tcp closed X11
+8081/tcp open   blackice-icecap
+
+Date: 03-19-2024
+443/tcp open  https
+80/tcp   open   http
+443/tcp  open   https
+1119/tcp closed bnetgame
+1935/tcp closed rtmp
+53/tcp  closed domain
+80/tcp  open   http
+443/tcp open   https
+80/tcp   closed http
+443/tcp  open   https
+2196/tcp closed unknown
+6000/tcp closed X11
+8081/tcp open   blackice-icecap
+
